@@ -1,6 +1,6 @@
 import React from 'react';
-import { Link } from 'routes';
-import Wrapper from './Wrapper';
+import { Link } from '../../routes';
+import Wrapper from './../../layouts/Wrapper';
 
 const PostItem = ({ post }) =>
   <Wrapper>
