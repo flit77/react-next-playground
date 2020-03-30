@@ -15,7 +15,7 @@
     "babel-plugin-module-resolver": "^2.7.1",
     "babel-plugin-styled-components": "^1.1.7",
     "express": "^4.15.4",
-    "next": "beta",
+    "next": "^9.3.2",
     "next-routes": "^1.0.40",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
